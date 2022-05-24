@@ -1,0 +1,12 @@
+{
+  "name": "testForRegard",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
